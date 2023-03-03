@@ -65,3 +65,6 @@ public class Main {
 		sc.close();
 	}
 }
+//https://kos74185foracm.blogspot.com/2013/07/11730-number-transformation.html
+//https://cpe.cse.nsysu.edu.tw/cpe/file/attendance/problemPdf/testData/uva11730a.php
+//https://cpe.cse.nsysu.edu.tw/cpe/file/attendance/problemPdf/testData/uva11730b.php
