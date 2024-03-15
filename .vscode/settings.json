@@ -1,0 +1,18 @@
+{
+    "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd",
+    // 設定CMake產生器
+    "cmake.generator": "Ninja",
+    "cmake.configureArgs": [
+        "-DCMAKE_C_COMPILER=/usr/bin/clang",
+        "-DCMAKE_CXX_COMPILER=/usr/bin/clang++"
+    ]
+    // 設定CMake變數
+    // "cmake.configureSettings": {
+    //     // 例:
+    //     "CMAKE_C_COMPILER": "/usr/bin/clang",
+    //     "CMAKE_CXX_COMPILER": "/usr/bin/clang++"
+    //     // CMAKE_PREFIX_PATH: "<list-of-search-paths>"
+    //     // CMAKE_INSTALL_PREFIX: "<prefix-of-installation-path>"
+    //     // ......
+    // },
+}
