@@ -1,3 +1,6 @@
+/*
+https://vjudge.net/problem/UVA-12546
+*/
 #include <algorithm>
 #include <iostream>
 #include <vector>
