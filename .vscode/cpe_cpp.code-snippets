@@ -26,6 +26,7 @@
 		  "",
 		  "int main(){",
 		  "    clock_t start = clock();",
+		  "    ostringstream oss;",
 		  "$1",
 		  "    cout << oss.str();",
 		  "    clock_t end = clock();",
